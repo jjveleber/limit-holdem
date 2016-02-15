@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1442624229 source:/home/auser/limit-holdem/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1442627228 source:/home/auser/limit-holdem/src/card.c
+	<stdint.h>
+	"card.h"
+
+1442627291 /home/auser/limit-holdem/src/card.h
+	<stdbool.h>
+
+1447442305 source:/home/auser/c-projects/limit-holdem/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"card.h"
+	"player.h"
+	"dealer.h"
+
+1442680774 source:/home/auser/c-projects/limit-holdem/src/card.c
+	<stdint.h>
+	<stdlib.h>
+	"card.h"
+
+1442679561 /home/auser/c-projects/limit-holdem/src/card.h
+	<stdbool.h>
+
+1447442135 source:/home/auser/c-projects/limit-holdem/card.c
+	"card.h"
+	<time.h>
+
+1443298088 /home/auser/c-projects/limit-holdem/card.h
+	<stdbool.h>
+	<stdint.h>
+	<stdlib.h>
+
+1445463203 /home/auser/c-projects/limit-holdem/player.h
+	"card.h"
+
+1445463327 source:/home/auser/c-projects/limit-holdem/player.c
+	"player.h"
+	<stdio.h>
+
+1447441967 source:/home/auser/c-projects/limit-holdem/dealer.c
+	"dealer.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+
+1447441511 /home/auser/c-projects/limit-holdem/dealer.h
+	"player.h"
+	"card.h"
+

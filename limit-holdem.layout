@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="card.c" open="1" top="0" tabpos="3">
+		<Cursor position="2706" topLine="28" />
+	</File>
+	<File name="card.h" open="1" top="0" tabpos="2">
+		<Cursor position="70" topLine="0" />
+	</File>
+	<File name="dealer.c" open="1" top="1" tabpos="7">
+		<Cursor position="1875" topLine="64" />
+	</File>
+	<File name="dealer.h" open="1" top="0" tabpos="6">
+		<Cursor position="439" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="320" topLine="6" />
+	</File>
+	<File name="player.c" open="1" top="0" tabpos="5">
+		<Cursor position="1326" topLine="18" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="4">
+		<Cursor position="176" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
